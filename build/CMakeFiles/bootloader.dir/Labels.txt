@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Myprojects/ESP32/Projects/VisualCodeProjects/8ms-esp32-main-v4/build/CMakeFiles/bootloader
+D:/Myprojects/ESP32/Projects/VisualCodeProjects/8ms-esp32-main-v4/build/CMakeFiles/bootloader.rule
+D:/Myprojects/ESP32/Projects/VisualCodeProjects/8ms-esp32-main-v4/build/CMakeFiles/bootloader-complete.rule
+D:/Myprojects/ESP32/Projects/VisualCodeProjects/8ms-esp32-main-v4/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Myprojects/ESP32/Projects/VisualCodeProjects/8ms-esp32-main-v4/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Myprojects/ESP32/Projects/VisualCodeProjects/8ms-esp32-main-v4/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Myprojects/ESP32/Projects/VisualCodeProjects/8ms-esp32-main-v4/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/Myprojects/ESP32/Projects/VisualCodeProjects/8ms-esp32-main-v4/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Myprojects/ESP32/Projects/VisualCodeProjects/8ms-esp32-main-v4/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Myprojects/ESP32/Projects/VisualCodeProjects/8ms-esp32-main-v4/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
