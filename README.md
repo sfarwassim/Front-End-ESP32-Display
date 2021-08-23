@@ -1,6 +1,6 @@
 # 8ms ESP32
 
-8ms ESP32 project
+Esp32 microcontroller board : Display dashboard , developed and designed with C/C++ code.
 
 # prepare ESP32 v4.1 SDK
 
